@@ -1,1 +1,92 @@
-TEST
+{
+  "version": 1,
+  "appUpdate": {
+    "versionCode": 416,
+    "versionName": "4.16.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/4.16.67/app-release.apk",
+    "changelog": "• Same changelog and features as version 4.15.67.\n• Hotfix: Fixed MTV video being cropped in portrait mode.\n• Hotfix: Fixed MTV playback sync and optimization.\n• Hotfix: Fixed XLS export. It now uses the XLS 2003 format (required by Mega Karaoke Songbook).\n• If you have already installed 4.15.67, go to Settings > Check App Updates to update. No need to uninstall.\n• If you are using version 3.xx.xx or earlier, or a modified app, uninstall it and install the new official update. This is an app update, not a song content update.",
+    "forceUpdate": false
+  },
+  "files": [
+    {
+      "folder": "sound",
+      "fileName": "soundfont.sf2",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/KaraOke_King_v2.sf2",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video1.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/Video1.mp4",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video2.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/Video2.mp4",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video3.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/Video3.mp4",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video4.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/Video4.mp4",
+    },
+    {
+      "folder": "bgv/Motion",
+      "fileName": "motion1.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/motion1.mp4",
+    },
+    {
+      "folder": "bgv/Motion",
+      "fileName": "motion2.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/motion2.mp4",
+    },
+    {
+      "folder": "bgv/Motion",
+      "fileName": "motion3.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/motion3.mp4",
+    },
+    {
+      "folder": "bgv/Motion",
+      "fileName": "motion4.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/motion4.mp4",
+    },
+    {
+      "folder": "bgv/3D",
+      "fileName": "sayaw1.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/sayaw1.mp4",
+    },
+    {
+      "folder": "bgv/3D",
+      "fileName": "sayaw2.mp4",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/sayaw2.mp4",
+    },
+    {
+      "folder": "bgphoto",
+      "fileName": "1.jpg",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/1.jpg",
+    },
+    {
+      "folder": "bgphoto",
+      "fileName": "2.jpg",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/2.jpg",
+    },
+    {
+      "folder": "bgphoto",
+      "fileName": "3.jpg",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/3.jpg",
+    },
+        {
+      "folder": "idx",
+      "fileName": "shubidx",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/shubidx",
+    },
+    {
+      "folder": "idx",
+      "fileName": "shubblob",
+      "url": "https://github.com/diazkinghyro/SongHub_Plus/releases/download/SongHub-Files/shubblob",
+    }
+  ]
+}
