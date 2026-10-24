@@ -1,2 +1,2 @@
-# SongHub Plus+
+# SongHub+
 SongHub Prebuilt Files
